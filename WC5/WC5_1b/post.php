@@ -1,0 +1,1 @@
+Goedemiddag <?php echo $_POST["voornaam"]; ?> <?php echo $_POST["naam"]; ?>
